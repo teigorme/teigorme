@@ -2,7 +2,7 @@
 
 🚀 Passionate Full Stack Developer | 🖥️ Tech Enthusiast | 🎵 Music Lover  
 
-- 🔭 I’m currently working on **my life**  
+- 🔭 I’m currently working in **Angoteisg**  
 - 🌱 I’m currently learning **Full Stack Development & Advanced Backend Concepts**  
 - 💬 Ask me about **Web Development, APIs, and Scalable Systems**  
 - 🏆 My goal: **Get Rich or Die Trying** 💰  
